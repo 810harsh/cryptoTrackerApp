@@ -1,6 +1,6 @@
 {
-  "name": "myapp",
-  "homepage": "http://810harsh.github.io/cryptoTrackerApp",
+  "name": "cryptoTrackerApp",
+  "homepage": "https://810harsh.github.io/cryptoTrackerApp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
